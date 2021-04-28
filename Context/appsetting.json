@@ -1,0 +1,9 @@
+{
+    "Context": {
+        "ConnectionString": "Server=bitsql.wctc.edu;Database=lhernandez19_22097_Movie;User ID=lhernandez19;Password=000557680"
+    },
+    "_comment": {
+        "##": "last 2 digits of CRN",
+        "XXX": "your initial"
+    }
+}
