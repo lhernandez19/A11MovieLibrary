@@ -125,7 +125,7 @@ namespace A11MovieLibrary.Migrations
                     b.Property<long?>("MovieId")
                         .HasColumnType("bigint");
 
-                    b.Property<DateTime>("RatedAt")
+                    b.Property<DateTime>("RateAt")
                         .HasColumnType("datetime2");
 
                     b.Property<long>("Rating")

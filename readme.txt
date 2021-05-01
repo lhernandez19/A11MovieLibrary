@@ -14,5 +14,7 @@ Login to database using id _22097_
 
 *** check minute 2.21
 
-Class 11
-*** check minute 1.45; 2:30
+Class 11 - 04/05/2021
+*** check minute 1:45; 2:30
+
+search for movies example 2:38
